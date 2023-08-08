@@ -18,3 +18,15 @@ author: 저자
 frontmatter (저자 등 기본 정보. 위 정보가 default.)
 https://github.com/satnaing/astro-paper/blob/main/src/content/blog/adding-new-post.md
 ```
+
+## command
+
+```bash
+git add .
+git commit -m "Docs: 원하는 메시지를 작성하세요"
+git push origin master
+```
+
+## References
+
+[안내영상](https://www.youtube.com/watch?v=z63GZ2SI3gs)
